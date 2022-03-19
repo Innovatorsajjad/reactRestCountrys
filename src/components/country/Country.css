@@ -1,0 +1,7 @@
+.Country{
+    background-color: rgba(255, 99, 71, 0.178);
+    border-radius: 5px;
+}
+.Country img{
+    width: 150px;
+}
